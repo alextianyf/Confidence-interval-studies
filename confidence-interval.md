@@ -1,8 +1,6 @@
 # Confidence Intervals
 
-## Table of Contents
 - [Confidence Intervals](#confidence-intervals)
-  - [Table of Contents](#table-of-contents)
   - [Common confidence levels](#common-confidence-levels)
   - [Why Do We Need Confidence Intervals?](#why-do-we-need-confidence-intervals)
   - [Confidence Interval Formula and Example Illustration](#confidence-interval-formula-and-example-illustration)
