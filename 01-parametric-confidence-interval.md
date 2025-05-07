@@ -8,7 +8,6 @@
     - [Situation 1: Effect of Increasing Sample Size](#situation-1-effect-of-increasing-sample-size)
     - [Situation 2:  Effect of Variance (Standard Deviation)](#situation-2--effect-of-variance-standard-deviation)
 
-
 A **confidence interval (CI)** is a range of values, derived from sample data, that is likely to contain the true population parameter (like a mean or proportion) with a certain level of confidence.
 
 > For example, to estimate the population’s average salary, we randomly selected 10 people and calculated the sample mean salary. We repeated this process 500 times. The graph below shows the distribution of these sample means. The shaded region represents the 95% confidence interval, meaning we are 95% confident that the true population mean (which is $50,000) lies within this range.
